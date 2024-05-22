@@ -1,4 +1,14 @@
-﻿using System;
+// Mamadou Dia
+// 04/21/2024
+
+// This program checks the validity of a four-digit account number.
+// The validity is determined by the following rule: 
+// The last digit of the account number must be equal to the remainder 
+// when the first three digits are divided by 7.
+
+
+
+using System;
 using static System.Console;
 
 class CheckDigit
